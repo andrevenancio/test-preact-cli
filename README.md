@@ -1,4 +1,4 @@
-# creative-coding-preact
+# test-preact
 
 ## CLI Commands
 
